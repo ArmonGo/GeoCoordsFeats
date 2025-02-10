@@ -86,7 +86,7 @@ def convert_coords(df):
 #============================================================================================
 
 def load_beijing( split_rate=None, scale =True, coords_only = False):
-    df_raw = pd.read_csv('c:\\Users\\Yameng\\Documents\\research\\GeoXgboost\\beijing.csv', encoding_errors='ignore') # use chinese inside but not utf8
+    df_raw = pd.read_csv('Local Data Path', encoding_errors='ignore') # use chinese inside but not utf8
     df = copy.deepcopy(df_raw[[ 'square', 'livingRoom', 'drawingRoom', 'kitchen',
     'bathRoom', 'floor', 'buildingType', 'constructionTime',
     'renovationCondition', 'buildingStructure', 'elevator',
