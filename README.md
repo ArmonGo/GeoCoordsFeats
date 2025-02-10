@@ -10,6 +10,16 @@ All the datasets used in this paper are currently available in kaggle. Five data
 
 More implementation details please check the file 'dataloader.py' and 'dataload.R'.
 
+| Dataset  | Link  |
+|----------|-------------------------------------------------------------|
+| Beijing  | [Link](https://www.kaggle.com/datasets/ruiqurm/lianjia/)  |
+| Dubai    | [Link](https://www.kaggle.com/datasets/azharsaleem/real-estate-goldmine-dubai-uae-rental-market)  |
+| London   | [Link](https://www.kaggle.com/datasets/jakewright/house-price-data)  |
+| Melbourne | [Link](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)  |
+| New York | [Link](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market)  |
+| Paris    | [Link](https://www.kaggle.com/datasets/benoitfavier/immobilier-france)  |
+| Perth    | [Link](https://www.kaggle.com/datasets/syuzai/perth-house-prices)  |
+| Seattle  | [Link](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)  |
 
 
 
